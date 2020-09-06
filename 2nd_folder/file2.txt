@@ -1,1 +1,3 @@
 This file was create in second_branch in local repository.
+
+Another line added in file in second_branch.
